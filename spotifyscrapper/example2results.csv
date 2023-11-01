@@ -1,0 +1,51 @@
+Index,ArtistName,ArtistPopularity,ArtistGenres,SongName,SongPopularity,AlbumName
+0,Jung Kook,87,['k-pop'],Seven (feat. Latto) (Explicit Ver.),98,Seven (feat. Latto)
+1,Doja Cat,89,"['dance pop', 'pop']",Paint The Town Red,87,Scarlet
+2,Tate McRae,82,"['alt z', 'pop']",greedy,98,greedy
+3,Jung Kook,87,['k-pop'],3D (feat. Jack Harlow),88,3D : The Remixes
+4,Drake,98,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",IDGAF (feat. Yeat),92,For All The Dogs
+5,Drake,98,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",First Person Shooter (feat. J. Cole),90,For All The Dogs
+6,iñigo quintero,74,[],Si No Estás,95,Si No Estás
+7,Kenya Grace,77,['singer-songwriter pop'],Strangers,97,Strangers
+8,Taylor Swift,100,['pop'],Cruel Summer,99,Lover
+9,KAROL G,90,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",QLONA,94,MAÑANA SERÁ BONITO (BICHOTA SEASON)
+10,Drake,98,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Virginia Beach,87,For All The Dogs
+11,Myke Towers,87,"['reggaeton', 'trap latino', 'urbano latino']",LALA,98,LA VIDA ES UNA
+12,Bizarrap,86,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']","Milo J: Bzrp Music Sessions, Vol. 57",87,"Milo J: Bzrp Music Sessions, Vol. 57"
+13,Drake,98,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Gently (feat. Bad Bunny),86,For All The Dogs
+14,Drake,98,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Slime You Out (feat. SZA),84,For All The Dogs
+15,Drake,98,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Calling For You (feat. 21 Savage),85,For All The Dogs
+16,Mitski,82,"['brooklyn indie', 'pov: indie']",My Love Mine All Mine,94,The Land Is Inhospitable and So Are We
+17,Bad Bunny,97,"['reggaeton', 'trap latino', 'urbano latino']",UN PREVIEW,93,UN PREVIEW
+18,Olivia Rodrigo,90,['pop'],vampire,96,GUTS
+19,Drake,98,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Daylight,85,For All The Dogs
+20,Drake,98,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Fear Of Heights,84,For All The Dogs
+21,Arctic Monkeys,86,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",I Wanna Be Yours,95,AM
+22,Quevedo,85,"['rap canario', 'trap latino', 'urbano latino']",Columbia,96,Columbia
+23,Peso Pluma,92,"['corridos tumbados', 'sad sierreno']",LADY GAGA,95,GÉNESIS
+24,Gunna,85,"['atl hip hop', 'melodic rap', 'rap', 'trap']",fukumean,96,a Gift & a Curse
+25,Billie Eilish,88,"['art pop', 'pop']","What Was I Made For? [From The Motion Picture ""Barbie""]",96,"What Was I Made For? [From The Motion Picture ""Barbie""]"
+26,Dua Lipa,86,"['dance pop', 'pop', 'uk pop']",Dance The Night - From Barbie The Album,95,Dance The Night (From Barbie The Album)
+27,Drake,98,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Rich Baby Daddy (feat. Sexyy Red & SZA),86,For All The Dogs
+28,Drake,98,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Amen (feat. Teezo Touchdown),83,For All The Dogs
+29,Maluma,84,"['latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Según Quién,87,Don Juan
+30,David Kushner,77,['gen z singer-songwriter'],Daylight,95,Daylight
+31,Calle 24,75,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",Que Onda,93,Que Onda
+32,cassö,74,[],Prada,94,Prada
+33,Harry Styles,85,['pop'],As It Was,94,Harry's House
+34,Drake,98,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",7969 Santa,84,For All The Dogs
+35,SZA,89,"['pop', 'r&b', 'rap']",Kill Bill,92,SOS
+36,The Weeknd,94,"['canadian contemporary r&b', 'canadian pop', 'pop']",Starboy,93,Starboy
+37,Drake,98,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",8am in Charlotte,84,For All The Dogs
+38,Tyla,71,[],Water,91,Water
+39,Zach Bryan,89,"['classic oklahoma country', 'modern country pop']",I Remember Everything (feat. Kacey Musgraves),93,Zach Bryan
+40,Anirudh Ravichander,86,"['desi hip hop', 'filmi', 'tamil hip hop']",Chaleya,84,Jawan
+41,Bizarrap,86,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",Fruto,88,en dormir sin Madrid
+42,V,84,"['j-division', 'korean ost']",Slow Dancing,96,Layover
+43,Olivia Rodrigo,90,['pop'],bad idea right?,94,GUTS
+44,Taylor Swift,100,['pop'],Blank Space,83,1989
+45,Carin Leon,86,"['corrido', 'musica mexicana', 'sad sierreno', 'sierreno']",Primera Cita,87,Colmillo De Leche
+46,Drake,98,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Bahamas Promises,83,For All The Dogs
+47,Taylor Swift,100,['pop'],Style,83,1989
+48,Drake,98,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Tried Our Best,83,For All The Dogs
+49,The Weeknd,94,"['canadian contemporary r&b', 'canadian pop', 'pop']",Die For You,90,Starboy
