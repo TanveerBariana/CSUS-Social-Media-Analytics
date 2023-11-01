@@ -5,7 +5,7 @@ import re
 inputdata={}
 #I am assigning the content of the csv file to my dictionary
 #header is my row in the csv file that is why header is 0 below
-inputdata = pandas.read_csv('assignment3\SongScrapeAlbum3.csv', header=[0], index_col=0).to_dict()
+inputdata = pandas.read_csv('assignment3\SongScrapeDrake.csv', header=[0], index_col=0).to_dict()
 
 #We can use type to check the data type of a variable
 #print(type(inputdata))
@@ -61,5 +61,5 @@ results= results.drop_duplicates(keep='first')
 #print(results)
 
 #Explicit Words in Rihanna's Scraped Songs
-results.to_csv('assignment3\ExplicitScrapeAlbum3.csv', index=True, index_label="Index")
+results.to_csv('assignment3\ExplictScrapeDrake.csv', index=True, index_label="Index")
 print("done")

@@ -4,7 +4,7 @@ import pandas
 API = azapi.AZlyrics('google', accuracy=0.5)
 
 API.artist = 'Drake'
-songlist = ['IDGAF (feat. Yeat)', 'First Person Shooter (feat. J. Cole)', 'Virginia Beach']
+songlist = ['Laugh Now Cry Later', 'One Dance', 'God\'s Plan']
 
 output={"Song":[],"Lyrics":[]}
 
@@ -17,5 +17,5 @@ for song in songlist:
  output['Lyrics'].append(API.lyrics)
 
 results = pandas.DataFrame(output)
-results.to_csv('assignment3\SongScrapeAlbum3.csv', index=True, index_label="Index")
+results.to_csv('assignment3\SongScrapeDrake.csv', index=True, index_label="Index")
 print("done")
