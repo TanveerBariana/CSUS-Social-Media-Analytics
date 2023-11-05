@@ -5,7 +5,7 @@ from wordcloud import WordCloud
 #Create an empty dataframe
 yelp_data_in_dataframe = pandas.DataFrame()
 #Put the contents of the csv file into the dataframe
-yelp_data_in_dataframe = pandas.read_csv("assignment3\SongScrapeAlbum3.csv")
+yelp_data_in_dataframe = pandas.read_csv("assignment3\SongScrapeDrake.csv")
 
 # I created a new dictionary here
 yelp_review_dictionary = {}
@@ -27,7 +27,6 @@ cleaned_text = yelp_review_string.replace("<.*?>|&([a-z0-9]+|#[0-9]{1,6}|#x[0-9a
 cleaned_text = yelp_review_string.replace("https","")
 cleaned_text = yelp_review_string.replace("\\s","")
 cleaned_text = yelp_review_string.replace('\\',"")
-
 
 #World cloud requires a string as input
 wordcloud = WordCloud(width = 500, height = 500,

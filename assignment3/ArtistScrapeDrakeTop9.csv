@@ -1,0 +1,10 @@
+Index,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,For All The Dogs,1,3eP13S8D5m2cweMEg3ZDed,Virginia Beach,spotify:track:3eP13S8D5m2cweMEg3ZDed,0.106,0.402,0.514,0,0.181,-7.322,0.0471,120.009,0.2,88
+5,For All The Dogs,6,7aqfrAY2p9BUSiupwk3svU,First Person Shooter (feat. J. Cole),spotify:track:7aqfrAY2p9BUSiupwk3svU,0.0277,0.47,0.64,0,0.382,-7.779,0.32,163.92,0.248,92
+6,For All The Dogs,7,2YSzYUF3jWqb9YP9VXmpjE,IDGAF (feat. Yeat),spotify:track:2YSzYUF3jWqb9YP9VXmpjE,0.0464,0.663,0.67,8.92E-05,0.205,-8.399,0.271,136.952,0.138,93
+155,Views,4,3cjF2OFRmip8spwZYQRKxP,Feel No Ways,spotify:track:3cjF2OFRmip8spwZYQRKxP,0.0312,0.582,0.677,6.60E-06,0.122,-7.081,0.172,193.818,0.205,79
+163,Views,12,1zi7xx7UVEFkmKfv06H8x0,One Dance,spotify:track:1zi7xx7UVEFkmKfv06H8x0,0.00776,0.792,0.625,0.0018,0.329,-5.609,0.0536,103.967,0.37,89
+171,Views,20,0wwPcA6wtMf6HUMpIRdeP7,Hotline Bling,spotify:track:0wwPcA6wtMf6HUMpIRdeP7,0.00258,0.891,0.628,0.00019,0.0504,-7.863,0.0551,134.966,0.552,81
+269,So Far Gone,9,524wvipGqxPKYWxkjf9y46,Little Bit (feat. Lykke Li),spotify:track:524wvipGqxPKYWxkjf9y46,0.0999,0.758,0.888,0.0336,0.661,-4.899,0.0374,120.392,0.771,74
+270,So Far Gone,10,3QLjDkgLh9AOEHlhQtDuhs,Best I Ever Had,spotify:track:3QLjDkgLh9AOEHlhQtDuhs,0.19,0.395,0.922,0,0.134,-2.176,0.375,162.361,0.558,81
+274,So Far Gone,14,4i3GraNMzBKze1WsVl38DS,Bria's Interlude (feat. Omarion),spotify:track:4i3GraNMzBKze1WsVl38DS,0.209,0.49,0.507,0.00104,0.119,-6.205,0.0849,147.037,0.237,67
