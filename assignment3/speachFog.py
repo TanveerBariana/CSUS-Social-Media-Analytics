@@ -28,6 +28,7 @@ cleaned_text = yelp_review_string.replace("https","")
 cleaned_text = yelp_review_string.replace("\\s","")
 cleaned_text = yelp_review_string.replace('\\',"")
 
+
 #World cloud requires a string as input
 wordcloud = WordCloud(width = 500, height = 500,
             background_color ='white',

@@ -1,0 +1,24 @@
+Index,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,For All The Dogs,1,3eP13S8D5m2cweMEg3ZDed,Virginia Beach,spotify:track:3eP13S8D5m2cweMEg3ZDed,0.106,0.402,0.514,0,0.181,-7.322,0.0471,120.009,0.2,88
+1,For All The Dogs,2,0Mrnt1YqVuW2bqmwu4VxDt,Amen (feat. Teezo Touchdown),spotify:track:0Mrnt1YqVuW2bqmwu4VxDt,0.0636,0.646,0.605,0,0.253,-7.59,0.188,90.156,0.309,83
+2,For All The Dogs,3,2nibvvDdAQkVraYP00z2RS,Calling For You (feat. 21 Savage),spotify:track:2nibvvDdAQkVraYP00z2RS,0.0548,0.571,0.55,0,0.179,-6.567,0.106,120.947,0.104,85
+3,For All The Dogs,4,53KaP77tkliz36LPxWGlWK,Fear Of Heights,spotify:track:53KaP77tkliz36LPxWGlWK,0.0128,0.581,0.325,0,0.16,-9.238,0.22,136.934,0.0666,84
+4,For All The Dogs,5,4ZT0wGKwlJRjpMUuwZVy3p,Daylight,spotify:track:4ZT0wGKwlJRjpMUuwZVy3p,0.0149,0.566,0.564,0,0.104,-7.88,0.277,139.92,0.0667,85
+5,For All The Dogs,6,7aqfrAY2p9BUSiupwk3svU,First Person Shooter (feat. J. Cole),spotify:track:7aqfrAY2p9BUSiupwk3svU,0.0277,0.47,0.64,0,0.382,-7.779,0.32,163.92,0.248,92
+6,For All The Dogs,7,2YSzYUF3jWqb9YP9VXmpjE,IDGAF (feat. Yeat),spotify:track:2YSzYUF3jWqb9YP9VXmpjE,0.0464,0.663,0.67,8.92E-05,0.205,-8.399,0.271,136.952,0.138,93
+7,For All The Dogs,8,1GpWY5RiInhezB8wGWs6oN,7969 Santa,spotify:track:1GpWY5RiInhezB8wGWs6oN,0.554,0.487,0.49,0,0.126,-9.373,0.0649,141.389,0.325,84
+8,For All The Dogs,9,0AYt6NMyyLd0rLuvr0UkMH,Slime You Out (feat. SZA),spotify:track:0AYt6NMyyLd0rLuvr0UkMH,0.508,0.483,0.408,0,0.259,-9.243,0.0502,88.88,0.105,84
+9,For All The Dogs,10,3JZjcKImHcmOI9ylL4zrSc,Bahamas Promises,spotify:track:3JZjcKImHcmOI9ylL4zrSc,0.85,0.626,0.309,1.31E-05,0.117,-10.397,0.0433,117.94,0.369,83
+10,For All The Dogs,11,3IHt4j5uAEl7iBu8Utn985,Tried Our Best,spotify:track:3IHt4j5uAEl7iBu8Utn985,0.837,0.57,0.295,0,0.167,-13.693,0.0445,84.139,0.231,83
+11,For All The Dogs,12,0ArVfVP8B5svkfj8clHNzB,Screw The World - Interlude,spotify:track:0ArVfVP8B5svkfj8clHNzB,0.0644,0.823,0.642,0.714,0.105,-5.922,0.258,146.781,0.629,78
+12,For All The Dogs,13,03rwnftfgpYVO6QDWOZcG6,Drew A Picasso,spotify:track:03rwnftfgpYVO6QDWOZcG6,0.375,0.707,0.334,0,0.17,-12.792,0.244,127.944,0.143,82
+13,For All The Dogs,14,24FUBxaAYSBlWsbSnEzDcn,Members Only (feat. PARTYNEXTDOOR),spotify:track:24FUBxaAYSBlWsbSnEzDcn,0.245,0.647,0.34,0,0.107,-8.795,0.0496,91.998,0.176,83
+14,For All The Dogs,15,1DAibqbopEYULPEtE8WHTE,What Would Pluto Do,spotify:track:1DAibqbopEYULPEtE8WHTE,0.0506,0.832,0.555,0,0.213,-7.766,0.116,95.618,0.473,83
+15,For All The Dogs,16,1PIgY9ybyFT9uWLM5POYGY,All The Parties (feat. Chief Keef),spotify:track:1PIgY9ybyFT9uWLM5POYGY,0.552,0.65,0.405,0,0.107,-10.156,0.199,124.747,0.195,82
+16,For All The Dogs,17,0w3Mfe4PIVjuFjJbe3OlYv,8am in Charlotte,spotify:track:0w3Mfe4PIVjuFjJbe3OlYv,0.643,0.567,0.682,0,0.512,-6.423,0.274,79.043,0.668,84
+17,For All The Dogs,18,1mjAD7IYvI5UGiB7WnppMf,BBL Love - Interlude,spotify:track:1mjAD7IYvI5UGiB7WnppMf,0.845,0.502,0.391,0,0.112,-9.013,0.0428,132.819,0.574,79
+18,For All The Dogs,19,6ZprqcYFC6D9eIZaCoqrSn,Gently (feat. Bad Bunny),spotify:track:6ZprqcYFC6D9eIZaCoqrSn,0.0479,0.868,0.407,0.000111,0.139,-7.735,0.295,107.524,0.255,87
+19,For All The Dogs,20,1yeB8MUNeLo9Ek1UEpsyz6,Rich Baby Daddy (feat. Sexyy Red & SZA),spotify:track:1yeB8MUNeLo9Ek1UEpsyz6,0.0377,0.645,0.729,0,0.384,-4.56,0.0528,146.01,0.142,87
+20,For All The Dogs,21,17IBDpAl3J39swaoPlfGpp,Another Late Night (feat. Lil Yachty),spotify:track:17IBDpAl3J39swaoPlfGpp,0.0347,0.684,0.541,0,0.138,-8.04,0.0483,158.046,0.214,83
+21,For All The Dogs,22,4IcbUXrAzBtn6iUO1LP471,Away From Home,spotify:track:4IcbUXrAzBtn6iUO1LP471,0.0195,0.848,0.625,0,0.109,-7.64,0.0587,93.019,0.226,81
+22,For All The Dogs,23,3oZZfVvLJuDYc4Vn3A63Fw,Polar Opposites,spotify:track:3oZZfVvLJuDYc4Vn3A63Fw,0.0924,0.44,0.274,3.37E-06,0.128,-14.464,0.0809,76.513,0.343,80

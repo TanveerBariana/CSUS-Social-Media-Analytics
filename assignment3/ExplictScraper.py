@@ -5,7 +5,7 @@ import re
 inputdata={}
 #I am assigning the content of the csv file to my dictionary
 #header is my row in the csv file that is why header is 0 below
-inputdata = pandas.read_csv('assignment3\SongScrapeAlbum3.csv', header=[0], index_col=0).to_dict()
+inputdata = pandas.read_csv('assignment3\Dbaby\SongScrapeBaby.csv', header=[0], index_col=0).to_dict()
 
 #We can use type to check the data type of a variable
 #print(type(inputdata))
@@ -27,7 +27,7 @@ cleaned_text = lyrics_string.replace("\\s","")
 cleaned_text = lyrics_string.replace('\\',"")
 
 #Open explicit words file
-explicitwords_file = open("spotifyscrapper\explicitwords.txt", "r")
+explicitwords_file = open("assignment3\explicitwords.txt", "r")
 
 explicitwords_data_string = explicitwords_file.read()
 
@@ -61,5 +61,5 @@ results= results.drop_duplicates(keep='first')
 #print(results)
 
 #Explicit Words in Rihanna's Scraped Songs
-results.to_csv('assignment3\ExplicitScrapeAlbum3.csv', index=True, index_label="Index")
+results.to_csv('assignment3\Dbaby\ExplicitScrapeBaby.csv', index=True, index_label="Index")
 print("done")

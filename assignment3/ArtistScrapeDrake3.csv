@@ -1,0 +1,62 @@
+Index,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+6,For All The Dogs,7,2YSzYUF3jWqb9YP9VXmpjE,IDGAF (feat. Yeat),spotify:track:2YSzYUF3jWqb9YP9VXmpjE,0.0464,0.663,0.67,8.92E-05,0.205,-8.399,0.271,136.952,0.138,93
+5,For All The Dogs,6,7aqfrAY2p9BUSiupwk3svU,First Person Shooter (feat. J. Cole),spotify:track:7aqfrAY2p9BUSiupwk3svU,0.0277,0.47,0.64,0,0.382,-7.779,0.32,163.92,0.248,92
+0,For All The Dogs,1,3eP13S8D5m2cweMEg3ZDed,Virginia Beach,spotify:track:3eP13S8D5m2cweMEg3ZDed,0.106,0.402,0.514,0,0.181,-7.322,0.0471,120.009,0.2,88
+18,For All The Dogs,19,6ZprqcYFC6D9eIZaCoqrSn,Gently (feat. Bad Bunny),spotify:track:6ZprqcYFC6D9eIZaCoqrSn,0.0479,0.868,0.407,0.000111,0.139,-7.735,0.295,107.524,0.255,87
+19,For All The Dogs,20,1yeB8MUNeLo9Ek1UEpsyz6,Rich Baby Daddy (feat. Sexyy Red & SZA),spotify:track:1yeB8MUNeLo9Ek1UEpsyz6,0.0377,0.645,0.729,0,0.384,-4.56,0.0528,146.01,0.142,87
+2,For All The Dogs,3,2nibvvDdAQkVraYP00z2RS,Calling For You (feat. 21 Savage),spotify:track:2nibvvDdAQkVraYP00z2RS,0.0548,0.571,0.55,0,0.179,-6.567,0.106,120.947,0.104,85
+4,For All The Dogs,5,4ZT0wGKwlJRjpMUuwZVy3p,Daylight,spotify:track:4ZT0wGKwlJRjpMUuwZVy3p,0.0149,0.566,0.564,0,0.104,-7.88,0.277,139.92,0.0667,85
+3,For All The Dogs,4,53KaP77tkliz36LPxWGlWK,Fear Of Heights,spotify:track:53KaP77tkliz36LPxWGlWK,0.0128,0.581,0.325,0,0.16,-9.238,0.22,136.934,0.0666,84
+7,For All The Dogs,8,1GpWY5RiInhezB8wGWs6oN,7969 Santa,spotify:track:1GpWY5RiInhezB8wGWs6oN,0.554,0.487,0.49,0,0.126,-9.373,0.0649,141.389,0.325,84
+8,For All The Dogs,9,0AYt6NMyyLd0rLuvr0UkMH,Slime You Out (feat. SZA),spotify:track:0AYt6NMyyLd0rLuvr0UkMH,0.508,0.483,0.408,0,0.259,-9.243,0.0502,88.88,0.105,84
+16,For All The Dogs,17,0w3Mfe4PIVjuFjJbe3OlYv,8am in Charlotte,spotify:track:0w3Mfe4PIVjuFjJbe3OlYv,0.643,0.567,0.682,0,0.512,-6.423,0.274,79.043,0.668,84
+1,For All The Dogs,2,0Mrnt1YqVuW2bqmwu4VxDt,Amen (feat. Teezo Touchdown),spotify:track:0Mrnt1YqVuW2bqmwu4VxDt,0.0636,0.646,0.605,0,0.253,-7.59,0.188,90.156,0.309,83
+9,For All The Dogs,10,3JZjcKImHcmOI9ylL4zrSc,Bahamas Promises,spotify:track:3JZjcKImHcmOI9ylL4zrSc,0.85,0.626,0.309,1.31E-05,0.117,-10.397,0.0433,117.94,0.369,83
+10,For All The Dogs,11,3IHt4j5uAEl7iBu8Utn985,Tried Our Best,spotify:track:3IHt4j5uAEl7iBu8Utn985,0.837,0.57,0.295,0,0.167,-13.693,0.0445,84.139,0.231,83
+13,For All The Dogs,14,24FUBxaAYSBlWsbSnEzDcn,Members Only (feat. PARTYNEXTDOOR),spotify:track:24FUBxaAYSBlWsbSnEzDcn,0.245,0.647,0.34,0,0.107,-8.795,0.0496,91.998,0.176,83
+14,For All The Dogs,15,1DAibqbopEYULPEtE8WHTE,What Would Pluto Do,spotify:track:1DAibqbopEYULPEtE8WHTE,0.0506,0.832,0.555,0,0.213,-7.766,0.116,95.618,0.473,83
+20,For All The Dogs,21,17IBDpAl3J39swaoPlfGpp,Another Late Night (feat. Lil Yachty),spotify:track:17IBDpAl3J39swaoPlfGpp,0.0347,0.684,0.541,0,0.138,-8.04,0.0483,158.046,0.214,83
+12,For All The Dogs,13,03rwnftfgpYVO6QDWOZcG6,Drew A Picasso,spotify:track:03rwnftfgpYVO6QDWOZcG6,0.375,0.707,0.334,0,0.17,-12.792,0.244,127.944,0.143,82
+15,For All The Dogs,16,1PIgY9ybyFT9uWLM5POYGY,All The Parties (feat. Chief Keef),spotify:track:1PIgY9ybyFT9uWLM5POYGY,0.552,0.65,0.405,0,0.107,-10.156,0.199,124.747,0.195,82
+21,For All The Dogs,22,4IcbUXrAzBtn6iUO1LP471,Away From Home,spotify:track:4IcbUXrAzBtn6iUO1LP471,0.0195,0.848,0.625,0,0.109,-7.64,0.0587,93.019,0.226,81
+22,For All The Dogs,23,3oZZfVvLJuDYc4Vn3A63Fw,Polar Opposites,spotify:track:3oZZfVvLJuDYc4Vn3A63Fw,0.0924,0.44,0.274,3.37E-06,0.128,-14.464,0.0809,76.513,0.343,80
+17,For All The Dogs,18,1mjAD7IYvI5UGiB7WnppMf,BBL Love - Interlude,spotify:track:1mjAD7IYvI5UGiB7WnppMf,0.845,0.502,0.391,0,0.112,-9.013,0.0428,132.819,0.574,79
+11,For All The Dogs,12,0ArVfVP8B5svkfj8clHNzB,Screw The World - Interlude,spotify:track:0ArVfVP8B5svkfj8clHNzB,0.0644,0.823,0.642,0.714,0.105,-5.922,0.258,146.781,0.629,78
+270,So Far Gone,10,3QLjDkgLh9AOEHlhQtDuhs,Best I Ever Had,spotify:track:3QLjDkgLh9AOEHlhQtDuhs,0.19,0.395,0.922,0,0.134,-2.176,0.375,162.361,0.558,81
+269,So Far Gone,9,524wvipGqxPKYWxkjf9y46,Little Bit (feat. Lykke Li),spotify:track:524wvipGqxPKYWxkjf9y46,0.0999,0.758,0.888,0.0336,0.661,-4.899,0.0374,120.392,0.771,74
+274,So Far Gone,14,4i3GraNMzBKze1WsVl38DS,Bria's Interlude (feat. Omarion),spotify:track:4i3GraNMzBKze1WsVl38DS,0.209,0.49,0.507,0.00104,0.119,-6.205,0.0849,147.037,0.237,67
+265,So Far Gone,5,0JaVdpmiex2EP7bBzyKVTa,November 18th,spotify:track:0JaVdpmiex2EP7bBzyKVTa,0.579,0.749,0.476,0,0.1,-11.147,0.507,71.937,0.534,64
+262,So Far Gone,2,3XLSlQLJf3Ut0zvMUxnF1h,Houstatlantavegas,spotify:track:3XLSlQLJf3Ut0zvMUxnF1h,0.393,0.683,0.695,0.00124,0.124,-6.798,0.0574,135.337,0.406,61
+263,So Far Gone,3,6NwhtCYkfwWlcR62Ac4E7y,Successful (feat. Trey Songz & Lil Wayne),spotify:track:6NwhtCYkfwWlcR62Ac4E7y,0.536,0.562,0.544,0,0.17,-5.065,0.369,159.517,0.231,61
+272,So Far Gone,12,0q7LGcVSpsIoSbjChtZ8lI,Uptown (feat. Bun B & Lil Wayne),spotify:track:0q7LGcVSpsIoSbjChtZ8lI,0.00391,0.416,0.824,0,0.104,-3.075,0.343,85.433,0.417,61
+266,So Far Gone,6,2hcohLIysMxofYziluXCoX,Ignant Shit (feat. Lil Wayne),spotify:track:2hcohLIysMxofYziluXCoX,0.186,0.591,0.846,0,0.463,-3.687,0.276,94.795,0.121,58
+277,So Far Gone,17,4XTXamS1g4g93jPxyuFJJ6,Brand New,spotify:track:4XTXamS1g4g93jPxyuFJJ6,0.631,0.399,0.491,0,0.171,-8.992,0.0714,94.542,0.356,57
+273,So Far Gone,13,43iKgGbmfqPLh3mxUlospI,Sooner Than Later,spotify:track:43iKgGbmfqPLh3mxUlospI,0.178,0.616,0.501,1.20E-05,0.105,-5.722,0.24,94.554,0.506,56
+261,So Far Gone,1,1v24T2ug4TlssYZvI3aL4O,Lust For Life,spotify:track:1v24T2ug4TlssYZvI3aL4O,0.939,0.462,0.422,0.0327,0.108,-10.381,0.175,87.364,0.0853,55
+264,So Far Gone,4,4FDSPGncHRpr6yB8DD4CtI,Let’s Call It Off (feat. Peter Bjorn and John),spotify:track:4FDSPGncHRpr6yB8DD4CtI,0.00427,0.79,0.731,0.29,0.157,-4.607,0.0327,127.403,0.938,54
+267,So Far Gone,7,3lkkkYc1wBj5l3FVlpqvP6,A Night Off (feat. Lloyd),spotify:track:3lkkkYc1wBj5l3FVlpqvP6,0.374,0.611,0.508,3.87E-06,0.168,-5.573,0.0741,103.612,0.368,54
+268,So Far Gone,8,7mPoCVGP752A5DtHf1SKkM,Say What's Real,spotify:track:7mPoCVGP752A5DtHf1SKkM,0.632,0.462,0.773,0,0.212,-5.375,0.288,86.157,0.455,53
+275,So Far Gone,15,6MlGqWzDiLkZ0vmAEsisEk,The Calm,spotify:track:6MlGqWzDiLkZ0vmAEsisEk,0.819,0.471,0.784,1.13E-05,0.107,-8.25,0.883,160.833,0.258,51
+278,So Far Gone,18,3SnXwQUrvSacFziUYXTNKY,Congratulations,spotify:track:3SnXwQUrvSacFziUYXTNKY,0.0185,0.333,0.859,0,0.22,-2.286,0.148,86.882,0.125,51
+271,So Far Gone,11,2TWSilrWcTrgVKcP8kfEfg,Unstoppable (feat. Santigold & Lil Wayne),spotify:track:2TWSilrWcTrgVKcP8kfEfg,0.165,0.774,0.912,0,0.745,-2.787,0.347,150.083,0.821,50
+276,So Far Gone,16,6hHKFReuQR9VQp39ev43wY,Outro (feat. Chilly Gonzales),spotify:track:6hHKFReuQR9VQp39ev43wY,0.988,0.397,0.0906,0.856,0.344,-21.655,0.054,185.167,0.136,46
+163,Views,12,1zi7xx7UVEFkmKfv06H8x0,One Dance,spotify:track:1zi7xx7UVEFkmKfv06H8x0,0.00776,0.792,0.625,0.0018,0.329,-5.609,0.0536,103.967,0.37,89
+171,Views,20,0wwPcA6wtMf6HUMpIRdeP7,Hotline Bling,spotify:track:0wwPcA6wtMf6HUMpIRdeP7,0.00258,0.891,0.628,0.00019,0.0504,-7.863,0.0551,134.966,0.552,81
+155,Views,4,3cjF2OFRmip8spwZYQRKxP,Feel No Ways,spotify:track:3cjF2OFRmip8spwZYQRKxP,0.0312,0.582,0.677,6.60E-06,0.122,-7.081,0.172,193.818,0.205,79
+167,Views,16,3BtuIIrQlkujKPuWF2B85z,Too Good,spotify:track:3BtuIIrQlkujKPuWF2B85z,0.0489,0.794,0.653,4.88E-05,0.1,-7.839,0.104,117.996,0.397,78
+168,Views,17,3ppVO2tyWRRznNmONvt7Se,Summers Over Interlude,spotify:track:3ppVO2tyWRRznNmONvt7Se,0.405,0.699,0.255,0.00242,0.0985,-8.647,0.0303,132.031,0.242,76
+162,Views,11,3O8NlPh2LByMU9lSRSHedm,Controlla,spotify:track:3O8NlPh2LByMU9lSRSHedm,0.0789,0.59,0.468,0,0.101,-11.083,0.185,92.287,0.349,75
+169,Views,18,4BhGTc3Cgay2U1QcTS7vQe,Fire & Desire,spotify:track:4BhGTc3Cgay2U1QcTS7vQe,0.0671,0.722,0.252,0,0.0852,-14.411,0.0761,79.923,0.275,73
+165,Views,14,3NxAG2ni1lLa8RKL6a0INc,Childs Play,spotify:track:3NxAG2ni1lLa8RKL6a0INc,0.0175,0.746,0.475,1.10E-05,0.197,-11.243,0.113,80.006,0.292,72
+158,Views,7,4cRBqWBjuccCowYVHFlXK6,Redemption,spotify:track:4cRBqWBjuccCowYVHFlXK6,0.611,0.694,0.314,2.07E-06,0.117,-7.82,0.116,119.905,0.341,70
+161,Views,10,433P7tDcIAi6NLnf4Sh6tI,Still Here,spotify:track:433P7tDcIAi6NLnf4Sh6tI,0.0258,0.834,0.433,0,0.633,-9.607,0.174,133.938,0.229,69
+153,Views,2,1C7KSXR2GVxknex6I4ANco,9,spotify:track:1C7KSXR2GVxknex6I4ANco,0.000803,0.68,0.712,0.000612,0.237,-7.184,0.0453,100.009,0.0379,67
+159,Views,8,3aJkV6DUTSCqOwVwaBDG9B,With You,spotify:track:3aJkV6DUTSCqOwVwaBDG9B,0.134,0.878,0.406,0.000234,0.112,-9.961,0.248,128.014,0.784,65
+166,Views,15,5mPSyjLatqB00IkPqRlbTE,Pop Style,spotify:track:5mPSyjLatqB00IkPqRlbTE,0.192,0.713,0.462,2.16E-06,0.105,-10.027,0.123,133.053,0.0594,65
+154,Views,3,03L2AoiRbWhvt7BDMx1jUB,U With Me?,spotify:track:03L2AoiRbWhvt7BDMx1jUB,0.338,0.429,0.43,1.18E-05,0.138,-11.373,0.165,174.983,0.125,64
+157,Views,6,4PA16FAl8LPmFmOhARawdV,Weston Road Flows,spotify:track:4PA16FAl8LPmFmOhARawdV,0.0635,0.623,0.74,0,0.366,-6.942,0.307,82.877,0.35,64
+152,Views,1,7sBwAWyXfiIgrYQ8BaJESH,Keep The Family Close,spotify:track:7sBwAWyXfiIgrYQ8BaJESH,0.149,0.378,0.566,0,0.382,-7.685,0.0482,87.691,0.196,63
+156,Views,5,5NFYuqu8V6QXc6mzcLImd6,Hype,spotify:track:5NFYuqu8V6QXc6mzcLImd6,0.0253,0.787,0.635,0,0.357,-8.271,0.155,130.018,0.237,63
+170,Views,19,7MjSipTto9QljYzZnloXOn,Views,spotify:track:7MjSipTto9QljYzZnloXOn,0.0657,0.395,0.852,0,0.262,-5.896,0.37,76.428,0.112,62
+164,Views,13,5e574bhjycX1eH2l4Auage,Grammys,spotify:track:5e574bhjycX1eH2l4Auage,0.00163,0.676,0.432,3.84E-06,0.0799,-9.51,0.502,145.869,0.12,61
+160,Views,9,2qLcJOLrh6Djda4uLbldSA,Faithful,spotify:track:2qLcJOLrh6Djda4uLbldSA,0.11,0.536,0.449,1.49E-05,0.284,-10.499,0.103,99.889,0.171,60

@@ -1,11 +1,11 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 #Put Your App’s Client ID and Secret Below
-client_credentials_manager = SpotifyClientCredentials(client_id='', client_secret='')
+client_credentials_manager = SpotifyClientCredentials(client_id='f7463345769f4254b3dacca8c5a40fe6', client_secret='a395a988201a42879a3c27ad432a419e')
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 #You can put multiple artists below
-name = ['Drake']
+name = ['DaBaby']
 result = sp.search(name)
 result['tracks']['items'][1]['artists']
 
@@ -14,7 +14,8 @@ artists_uris = result['tracks']['items'][0]['artists'][0]['uri']
 # Pull all of the artist's albums
 artist_albums = sp.artist_albums(artists_uris, album_type='album')
 # Store artist's albums' names' and uris in separate lists
-artist_album_names = ['So Far gone', 'Views', 'For All The Dogs']
+#artist_album_names = ['So Far gone', 'Views', 'For All The Dogs']
+artist_album_names = []
 artist_album_uris = []
 for i in range(len(artist_albums['items'])):
     artist_album_names.append(artist_albums['items'][i]['name'])
@@ -135,5 +136,5 @@ final_df = dataframe.sort_values('popularity', ascending=False).drop_duplicates(
 print(len(final_df))
 
 #final_df = final_df['album'].isin['So Far gone', 'Views', 'For All The Dogs']
-final_df.to_csv("assignment3\ArtistScrapeDrake.csv",index=True, index_label="Index")
+final_df.to_csv("assignment3\ArtistScrapeDababy.csv",index=True, index_label="Index")
 print("done")

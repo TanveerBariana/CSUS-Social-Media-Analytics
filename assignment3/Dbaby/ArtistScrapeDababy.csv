@@ -1,0 +1,62 @@
+Index,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Future Nostalgia (The Moonlight Edition),1,3iYNJX4FTRGlfMQySjlGNr,Future Nostalgia,spotify:track:3iYNJX4FTRGlfMQySjlGNr,0.00618,0.875,0.813,0.0,0.321,-4.502,0.0579,114.993,0.859,60
+1,Future Nostalgia (The Moonlight Edition),2,2FlcxnvybdwpaMmMhaRtSN,Don't Start Now,spotify:track:2FlcxnvybdwpaMmMhaRtSN,0.0123,0.793,0.793,0.0,0.0951,-4.521,0.083,123.95,0.679,69
+2,Future Nostalgia (The Moonlight Edition),3,4Ulqu89XempybuL8ApUeqL,Cool,spotify:track:4Ulqu89XempybuL8ApUeqL,0.133,0.469,0.785,1.55e-06,0.0931,-4.015,0.0664,89.719,0.79,61
+3,Future Nostalgia (The Moonlight Edition),4,5UncbfPKpWlxsWWyhmM87l,Physical,spotify:track:5UncbfPKpWlxsWWyhmM87l,0.0137,0.647,0.844,0.000658,0.102,-3.756,0.0457,146.967,0.746,68
+4,Future Nostalgia (The Moonlight Edition),5,41z2bSbbtJ9wiIee4RXdi5,Levitating,spotify:track:41z2bSbbtJ9wiIee4RXdi5,0.0561,0.695,0.884,0.0,0.213,-2.278,0.0753,103.014,0.914,59
+5,Future Nostalgia (The Moonlight Edition),6,6boViHmG6c8ubzxTvcMoJY,Pretty Please,spotify:track:6boViHmG6c8ubzxTvcMoJY,0.0311,0.906,0.474,5.5e-06,0.286,-6.124,0.194,106.976,0.656,63
+6,Future Nostalgia (The Moonlight Edition),7,6pbKWWP8WwTaP5TbSq1vCA,Hallucinate,spotify:track:6pbKWWP8WwTaP5TbSq1vCA,0.033,0.627,0.69,0.0,0.0742,-5.396,0.139,122.053,0.627,65
+7,Future Nostalgia (The Moonlight Edition),8,5CSKbHjpqborGnlzagyaDo,Love Again,spotify:track:5CSKbHjpqborGnlzagyaDo,0.00173,0.659,0.667,2.85e-05,0.1,-4.668,0.0339,115.982,0.468,69
+8,Future Nostalgia (The Moonlight Edition),9,4PULMUg3AwudcRCzvVmgXT,Break My Heart,spotify:track:4PULMUg3AwudcRCzvVmgXT,0.167,0.73,0.729,1.39e-06,0.349,-3.434,0.0884,113.011,0.467,67
+9,Future Nostalgia (The Moonlight Edition),10,3pyodt4pb554dMz8fCv7oi,Good In Bed,spotify:track:3pyodt4pb554dMz8fCv7oi,0.138,0.68,0.701,0.000191,0.168,-5.001,0.0917,94.06,0.649,60
+10,Future Nostalgia (The Moonlight Edition),11,4szI7zRh7kLApCSqiB6R7b,Boys Will Be Boys,spotify:track:4szI7zRh7kLApCSqiB6R7b,0.408,0.768,0.486,0.0,0.098,-5.954,0.0353,125.021,0.519,58
+12,Future Nostalgia (The Moonlight Edition),13,1diS6nkxMQc3wwC4G1j0bh,We're Good,spotify:track:1diS6nkxMQc3wwC4G1j0bh,0.0319,0.722,0.588,0.0,0.183,-5.932,0.0544,134.01,0.59,75
+13,Future Nostalgia (The Moonlight Edition),14,1V4uMdCH6aDZire0vVqnXW,Prisoner (feat. Dua Lipa),spotify:track:1V4uMdCH6aDZire0vVqnXW,0.0109,0.769,0.659,0.0,0.0709,-3.899,0.0442,127.992,0.586,63
+14,Future Nostalgia (The Moonlight Edition),15,1IdDtg7GhWfHYEWDymq3d2,If It Ain’t Me,spotify:track:1IdDtg7GhWfHYEWDymq3d2,0.0185,0.809,0.623,8.77e-05,0.0538,-6.254,0.145,114.986,0.57,64
+15,Future Nostalgia (The Moonlight Edition),16,4FuZofNMHdtsEdrsqwF3xR,That Kind Of Woman,spotify:track:4FuZofNMHdtsEdrsqwF3xR,0.0045,0.64,0.665,0.0,0.22,-4.966,0.0325,113.213,0.42,61
+16,Future Nostalgia (The Moonlight Edition),17,69GVTnxGmUlF2ymLPL2CEp,Not My Problem (feat. JID),spotify:track:69GVTnxGmUlF2ymLPL2CEp,0.442,0.695,0.732,0.0,0.428,-3.308,0.317,107.926,0.802,51
+18,Future Nostalgia (The Moonlight Edition),19,2GPCE96x9Go6acdDt8ex6p,Un Día (One Day),spotify:track:2GPCE96x9Go6acdDt8ex6p,0.00547,0.572,0.634,0.0,0.129,-10.599,0.0617,168.136,0.432,61
+19,Club Future Nostalgia (DJ Mix),1,6I4jM8zkQVhWBlRWM72TZv,Future Nostalgia (Joe Goddard Remix) [Mixed],spotify:track:6I4jM8zkQVhWBlRWM72TZv,0.0301,0.774,0.683,0.0429,0.181,-9.717,0.0824,122.978,0.607,42
+20,Club Future Nostalgia (DJ Mix),2,7uxUuFXMrFZnkgPWYVt2Co,Cool (Jayda G Remix) [Mixed],spotify:track:7uxUuFXMrFZnkgPWYVt2Co,0.0399,0.785,0.788,0.00068,0.116,-8.44,0.187,122.913,0.648,41
+21,Club Future Nostalgia (DJ Mix),3,1Q6rJb7E9F99NqZbqkJLOT,Good In Bed (Zach Witness & Gen Hoshino Remixes) [Mixed],spotify:track:1Q6rJb7E9F99NqZbqkJLOT,0.0486,0.661,0.639,7.82e-05,0.578,-7.31,0.268,93.888,0.379,40
+22,Club Future Nostalgia (DJ Mix),4,3n1vWk5ATCmw4116OfUFVl,Pretty Please (Midland Refix) [Mixed],spotify:track:3n1vWk5ATCmw4116OfUFVl,0.00594,0.927,0.729,0.000309,0.206,-9.528,0.146,128.003,0.874,40
+23,Club Future Nostalgia (DJ Mix),5,7IDA5SSrUNi5I4ehEyuWx2,Pretty Please (Masters at Work Remix) [Mixed],spotify:track:7IDA5SSrUNi5I4ehEyuWx2,0.0121,0.795,0.899,0.194,0.19,-6.816,0.0427,125.039,0.866,39
+24,Club Future Nostalgia (DJ Mix),6,5yPaiCQYIDGKmGPlE7Yf0L,Boys Will Be Boys (Zach Witness Remix) [Mixed],spotify:track:5yPaiCQYIDGKmGPlE7Yf0L,0.0519,0.85,0.821,0.000189,0.0638,-6.792,0.0562,126.007,0.629,41
+25,Club Future Nostalgia (DJ Mix),7,3QhQ1vVPeWjUQB01AXhKrT,Love Again (Horse Meat Disco Remix) [Mixed],spotify:track:3QhQ1vVPeWjUQB01AXhKrT,0.00542,0.783,0.84,0.00599,0.0804,-5.815,0.0487,122.982,0.502,46
+26,Club Future Nostalgia (DJ Mix),8,6oCGHGu19poEz8iF3ZXHrj,Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed],spotify:track:6oCGHGu19poEz8iF3ZXHrj,0.0697,0.696,0.885,0.0217,0.344,-7.279,0.0583,120.283,0.81,53
+27,Club Future Nostalgia (DJ Mix),9,3fiCSQSEJrAP2NvPEuQnKm,Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix] [Mixed],spotify:track:3fiCSQSEJrAP2NvPEuQnKm,0.0274,0.805,0.631,0.0,0.116,-9.056,0.17,115.999,0.602,44
+28,Club Future Nostalgia (DJ Mix),10,5xEXiB1tVK99iu27cbfRzU,Hallucinate (Mr Fingers deep stripped mix) [Mixed],spotify:track:5xEXiB1tVK99iu27cbfRzU,0.0281,0.57,0.641,0.199,0.079,-8.945,0.0425,120.567,0.471,38
+29,Club Future Nostalgia (DJ Mix),11,42wKjrBHwwVkqcrQAz5fva,Hallucinate (Paul Woolford Remix) [Extended] [Mixed],spotify:track:42wKjrBHwwVkqcrQAz5fva,0.00857,0.562,0.806,0.218,0.162,-7.167,0.0326,123.013,0.695,38
+30,Club Future Nostalgia (DJ Mix),12,3q4cfRBOyj4WqQYV9HrsUh,Love Is Religion (The Blessed Madonna Remix) [Mixed],spotify:track:3q4cfRBOyj4WqQYV9HrsUh,0.0471,0.8,0.816,1.4e-06,0.373,-6.711,0.111,122.987,0.868,49
+31,Club Future Nostalgia (DJ Mix),13,46mieyWUfTRwG9ha7UCJ3Z,Don't Start Now (Yaeji Remix) [Mixed],spotify:track:46mieyWUfTRwG9ha7UCJ3Z,0.00675,0.741,0.505,0.0,0.0923,-9.149,0.255,128.149,0.487,37
+32,Club Future Nostalgia (DJ Mix),14,1GGuz6FiDdy6uH545iwYHn,Physical (feat. Gwen Stefani) [Mark Ronson Remix] [Mixed],spotify:track:1GGuz6FiDdy6uH545iwYHn,0.0174,0.623,0.781,0.0,0.568,-6.823,0.0496,94.035,0.76,46
+33,Club Future Nostalgia (DJ Mix),15,6P8SQWN3pcLKChWHt73fZV,Kiss and Make Up (Remix) [Mixed],spotify:track:6P8SQWN3pcLKChWHt73fZV,0.524,0.819,0.727,2.28e-06,0.11,-6.722,0.104,107.079,0.842,38
+34,Club Future Nostalgia (DJ Mix),16,61u2QwMcppNKzDOzakQJ2W,That Kind Of Woman (Jacques Lu Cont Remix) [Mixed],spotify:track:61u2QwMcppNKzDOzakQJ2W,0.00946,0.72,0.823,0.101,0.107,-10.426,0.0325,124.493,0.97,39
+35,Club Future Nostalgia (DJ Mix),17,2xKIBnXEwDOcTzCx862bhR,Break My Heart (Moodymann Remix) [Mixed],spotify:track:2xKIBnXEwDOcTzCx862bhR,0.0298,0.773,0.691,0.0599,0.125,-6.702,0.0523,113.006,0.47,38
+47,Future Nostalgia,12,5nujrmhLynf4yMoMtj8AQF,Levitating (feat. DaBaby),spotify:track:5nujrmhLynf4yMoMtj8AQF,0.00883,0.702,0.825,0.0,0.0674,-3.787,0.0601,102.977,0.915,85
+48,Future Nostalgia,13,3F1P0QzdXtBz0MXy7KIO5w,Fever,spotify:track:3F1P0QzdXtBz0MXy7KIO5w,0.0597,0.868,0.693,0.00399,0.106,-7.052,0.181,114.999,0.396,69
+59,Dua Lipa (Complete Edition),11,1LPGXjVWl8EnrnyaOgPpBm,Begging,spotify:track:1LPGXjVWl8EnrnyaOgPpBm,0.024,0.683,0.794,0.0,0.302,-4.558,0.0533,105.941,0.327,56
+66,Dua Lipa (Complete Edition),18,6Z3aekpUm3ZvWRe766Y0gQ,Want To,spotify:track:6Z3aekpUm3ZvWRe766Y0gQ,0.0788,0.572,0.691,0.000132,0.0619,-4.783,0.123,92.082,0.318,48
+67,Dua Lipa (Complete Edition),19,0Aj9mjOpjS2TbgSB6sdXNo,Running,spotify:track:0Aj9mjOpjS2TbgSB6sdXNo,0.0178,0.62,0.694,0.0,0.19,-3.739,0.0311,98.002,0.319,45
+68,Dua Lipa (Complete Edition),20,7jr3iPu4O4bTCVwLMbdU2i,Kiss and Make Up,spotify:track:7jr3iPu4O4bTCVwLMbdU2i,0.0658,0.678,0.729,0.0,0.303,-4.188,0.137,99.895,0.643,75
+69,Dua Lipa (Complete Edition),21,3WVcoF2oKbUPCxyjIkYyHs,One Kiss,spotify:track:3WVcoF2oKbUPCxyjIkYyHs,0.0371,0.797,0.819,3.42e-05,0.0773,-4.351,0.12,124.022,0.581,0
+70,Dua Lipa (Complete Edition),22,2pRQRG07s3q8amlmjOwPcg,Electricity,spotify:track:2pRQRG07s3q8amlmjOwPcg,0.0104,0.588,0.67,3.33e-06,0.338,-6.439,0.0473,118.159,0.505,0
+71,Dua Lipa (Complete Edition),23,34fyYYMNkz2WlzGnPePCg9,Scared to Be Lonely,spotify:track:34fyYYMNkz2WlzGnPePCg9,0.0791,0.568,0.525,0.0,0.273,-7.789,0.0594,137.846,0.203,0
+72,Dua Lipa (Complete Edition),24,2BY0p8sKIMmRuVjUTasf9G,No Lie (feat. Dua Lipa),spotify:track:2BY0p8sKIMmRuVjUTasf9G,0.0441,0.74,0.872,0.0,0.26,-3.482,0.12,102.019,0.467,0
+73,Dua Lipa (Complete Edition),25,3zUdQ1EJtqr1BaHCYSzLTa,New Rules - Live,spotify:track:3zUdQ1EJtqr1BaHCYSzLTa,0.0117,0.539,0.859,0.0,0.372,-6.427,0.0549,115.9,0.484,40
+74,Dua Lipa (Deluxe),1,4P76CEIXrrWT2cgS1YrTMr,Genesis,spotify:track:4P76CEIXrrWT2cgS1YrTMr,0.0244,0.715,0.572,0.0,0.26,-6.853,0.0745,113.02,0.429,59
+75,Dua Lipa (Deluxe),2,2OWKDTonST8HNko3dBlPPp,Lost In Your Light (feat. Miguel),spotify:track:2OWKDTonST8HNko3dBlPPp,0.000402,0.646,0.772,0.0,0.102,-3.826,0.0564,117.097,0.414,54
+76,Dua Lipa (Deluxe),3,5eTNdkstwKaNahHf41fJ9u,Hotter Than Hell,spotify:track:5eTNdkstwKaNahHf41fJ9u,0.011,0.532,0.868,0.0,0.0584,-4.23,0.0908,110.127,0.529,68
+77,Dua Lipa (Deluxe),4,7FCfMXYTIiQ9b4hDYs4Iol,Be the One,spotify:track:7FCfMXYTIiQ9b4hDYs4Iol,0.117,0.661,0.651,1.32e-05,0.056,-3.771,0.0499,87.46,0.368,68
+78,Dua Lipa (Deluxe),5,76cy1WJvNGJTj78UqeA5zr,IDGAF,spotify:track:76cy1WJvNGJTj78UqeA5zr,0.0403,0.836,0.544,0.0,0.0824,-5.975,0.0943,97.028,0.51,82
+79,Dua Lipa (Deluxe),6,2eAAEa8pxKF7My0EO4rFgR,Blow Your Mind (Mwah),spotify:track:2eAAEa8pxKF7My0EO4rFgR,0.0188,0.654,0.796,0.0,0.0948,-4.761,0.122,108.854,0.491,67
+80,Dua Lipa (Deluxe),7,1mxaufUe16G9wOoG9ptUqr,Garden,spotify:track:1mxaufUe16G9wOoG9ptUqr,0.00475,0.46,0.828,0.0,0.141,-4.005,0.148,151.548,0.419,49
+81,Dua Lipa (Deluxe),8,0mDGNetRxywxqgiXFbagZh,No Goodbyes,spotify:track:0mDGNetRxywxqgiXFbagZh,0.00795,0.678,0.714,0.0,0.0827,-4.924,0.0408,109.021,0.307,59
+82,Dua Lipa (Deluxe),9,0gtSPYz0OHoF7k09Auq1uC,Thinking 'Bout You,spotify:track:0gtSPYz0OHoF7k09Auq1uC,0.0856,0.802,0.481,0.0,0.152,-5.132,0.043,90.973,0.468,51
+83,Dua Lipa (Deluxe),10,2ekn2ttSfGqwhhate0LSR0,New Rules,spotify:track:2ekn2ttSfGqwhhate0LSR0,0.00261,0.762,0.7,1.56e-05,0.153,-6.021,0.0694,116.073,0.608,83
+85,Dua Lipa (Deluxe),12,5E5MqaS6eOsbaJibl3YeMZ,Homesick,spotify:track:5E5MqaS6eOsbaJibl3YeMZ,0.948,0.426,0.224,0.0,0.112,-8.683,0.0391,85.728,0.399,65
+86,Dua Lipa (Deluxe),13,2qxagPKgS2Wc05MLmJucBE,Dreams,spotify:track:2qxagPKgS2Wc05MLmJucBE,0.0688,0.728,0.824,0.0,0.332,-4.581,0.07,105.001,0.894,48
+87,Dua Lipa (Deluxe),14,4isCUHcZJs0o8niODly6qc,Room for 2,spotify:track:4isCUHcZJs0o8niODly6qc,0.396,0.536,0.488,1.44e-05,0.133,-5.752,0.0354,75.761,0.382,46
+88,Dua Lipa (Deluxe),15,2qES7NEo0DCDvi707VS3HC,New Love,spotify:track:2qES7NEo0DCDvi707VS3HC,0.152,0.579,0.621,4.01e-06,0.0869,-8.625,0.0445,90.354,0.343,48
+89,Dua Lipa (Deluxe),16,0LwbO2KIQw1uR2FCqwaKAu,Bad Together,spotify:track:0LwbO2KIQw1uR2FCqwaKAu,0.0076,0.703,0.628,0.0,0.471,-6.349,0.0284,103.983,0.425,48
+90,Dua Lipa (Deluxe),17,1oXHXIB8rHgwHSsPRNjEzn,Last Dance,spotify:track:1oXHXIB8rHgwHSsPRNjEzn,0.0232,0.589,0.578,0.0,0.0984,-5.626,0.0454,135.77,0.38,59
